@@ -1,0 +1,49 @@
+.body {
+  color: white !important;
+}
+
+.joke {
+  color: white;
+  width: 400px;
+}
+
+.preparat {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.get_joke {
+  color: rgb(0, 0, 0);
+  width: 150px;
+  height: 50px;
+  background-color: #f2ff00;
+  border-radius: 20px;
+  border: solid 2px black;
+  outline-offset: 50px;
+}
+
+.emoji-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.emoji-button img {
+  width: 50px; /* Adjust the size as needed */
+  height: 50px;
+}
+
+.blob_bottom {
+  width: 150px;
+  margin-top: 300px;
+  margin-left: 100px;
+}
+
+.blob-top {
+  width: 150px;
+  top: 10px;
+  margin-left: 1200px;
+}/*# sourceMappingURL=main.css.map */
