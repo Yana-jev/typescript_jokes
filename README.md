@@ -45,5 +45,10 @@ Una aplicación web que combina lo mejor del clima actual con un toque de humor.
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/clima-y-chistes.git
-npm install
-npm start
+2. 
+   ```bash
+   npm install
+3. 
+   ```bash
+   npm start
+
