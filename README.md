@@ -17,11 +17,12 @@ A web application that combines the best of current weather information with a t
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weather-and-jokes.git
-2.```bash
-npm install
-2.```bash 
-npm start
-
+2. 
+   ```bash
+   npm install
+3. 
+   ```bash
+   npm start
 
 
 
